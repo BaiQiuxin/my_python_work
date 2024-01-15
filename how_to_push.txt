@@ -1,0 +1,13 @@
+git pull origin main --allow-unrelated-histories
+
+# Or master
+# Or just try with origin
+
+git pull origin main --allow-unrelated-histories
+
+git add .
+# Or file name
+
+git commit -m "commited"
+
+git push
