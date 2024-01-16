@@ -1,0 +1,6 @@
+# 向哲煜 2024.1.16
+
+digits = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
+print(min(digits))
+print(max(digits))
+print(sum(digits))

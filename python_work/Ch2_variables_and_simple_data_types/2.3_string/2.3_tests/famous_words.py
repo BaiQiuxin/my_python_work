@@ -1,1 +1,0 @@
-print('Albert Einstein once said, "A person who never made a msitake never tried anything new"')
