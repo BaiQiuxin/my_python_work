@@ -28,6 +28,30 @@ Python编程 从入门到实践（第三版）
 
 下一步准备学习的书籍有：
 
+2024.1.21
+
+- 流畅的Python（第二版）上下两册
+- Python编程实战 妙趣横生的项目之旅
+- Python极客项目编程
+- Python编程快速上手 让繁琐工作自动化
+- 跟Wakaba酱一起学Git使用 （为了便于项目编程而进行学习）
+- 编写整洁的Python代码
+- Excel+Python 飞速搞定数据分析与处理
+- Python面向对象编程 构建游戏和GUI
+- Python数据结构和算法实战
+- Python网络爬虫时间
+- Python数据分析
+- Python+Word,Excel,Powerpoint
+- 趣学Python游戏编程
+- 一些为了更好的编写文档而学习的书籍
+  - 了不起的Markdown
+  - LaTex入门
+  - LaTex入门与实战应用
+
+---
+
+下一步准备学习的书籍有：
+
 2024.1.16
 
 - 流畅的Python（第二版）上下两册
