@@ -50,4 +50,3 @@ if user not in banned_users:
 #布尔表达式(条件测试的别名，即True or False)
 
 game_active = True
-can_edit = False

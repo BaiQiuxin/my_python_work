@@ -47,7 +47,4 @@ user = 'marie'
 if user not in banned_users:
     print(f"{user.title()}, you can post a response if you wish.")
 
-#布尔表达式(条件测试的别名，即True or False)
-
-game_active = True
-can_edit = False
+#布尔表达式(条件测试的别名，ji)
