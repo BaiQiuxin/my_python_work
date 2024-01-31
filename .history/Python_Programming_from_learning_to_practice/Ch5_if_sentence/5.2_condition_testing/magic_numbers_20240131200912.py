@@ -41,8 +41,4 @@ print('pepperoni' in requested_toppings)
 
 #检查特定的值不在列表中
 
-banned_users = ['andrew', 'carolina', 'david']
-user = 'marie'
-
-if user not in banned_users:
-    print(f"{user.title()}, you can post a response if you wish.")
+banned_users = ['']
