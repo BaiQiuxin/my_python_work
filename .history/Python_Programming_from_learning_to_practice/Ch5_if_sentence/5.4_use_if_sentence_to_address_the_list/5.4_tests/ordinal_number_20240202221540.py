@@ -1,0 +1,1 @@
+ordinal_number = [value in value in range(1,10)]
