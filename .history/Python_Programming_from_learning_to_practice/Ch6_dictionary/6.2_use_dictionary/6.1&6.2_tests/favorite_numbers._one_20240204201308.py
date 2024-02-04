@@ -1,0 +1,4 @@
+favorite_numbers = {
+    'mike': 0,
+    'jack'
+}
