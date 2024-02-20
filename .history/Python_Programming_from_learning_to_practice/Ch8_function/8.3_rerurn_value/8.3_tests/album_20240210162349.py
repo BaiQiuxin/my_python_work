@@ -1,0 +1,3 @@
+# 向哲煜 2024.2.10
+
+def make_album (singer_name):
