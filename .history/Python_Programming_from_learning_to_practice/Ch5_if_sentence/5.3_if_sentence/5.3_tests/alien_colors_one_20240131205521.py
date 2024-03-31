@@ -1,1 +1,0 @@
-alien_color = ['green', 'yellow', 'r4']

@@ -1,1 +1,0 @@
-favorite_fruits = ['w']

@@ -1,2 +1,0 @@
-alien_color = ['green', '
-               ']

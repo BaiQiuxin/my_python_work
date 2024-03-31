@@ -1,2 +1,0 @@
-car = 'subaru'
-print()

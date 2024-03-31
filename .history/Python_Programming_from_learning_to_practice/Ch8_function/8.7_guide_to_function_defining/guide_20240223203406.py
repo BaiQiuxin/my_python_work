@@ -1,3 +1,0 @@
-# 向哲煜 2024.2.23
-
-def function_name(parameter_0, )

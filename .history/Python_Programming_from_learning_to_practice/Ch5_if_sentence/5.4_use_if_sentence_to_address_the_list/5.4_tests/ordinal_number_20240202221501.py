@@ -1,1 +1,0 @@
-ordinal_number = [value in values for range(start, stop, step)]

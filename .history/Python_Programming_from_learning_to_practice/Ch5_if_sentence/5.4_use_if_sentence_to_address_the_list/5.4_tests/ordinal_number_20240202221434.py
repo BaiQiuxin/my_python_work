@@ -1,1 +1,0 @@
-ordinal_number = [1, ]
