@@ -1,0 +1,7 @@
+In Python you can identify variables.
+In Python you can calculate data.
+In Python you can create a list.
+In Python you can operate a list.
+In Python you can use if sentence to judge a condition.
+In Python you can create a dictionary
+In Python you can
