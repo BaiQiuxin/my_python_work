@@ -73,7 +73,7 @@ class AlienInvasion:
         button_cllcked = self.play_button.rect.collidepoint(mouse_pos)
         if button_cllcked and not self.game_active:
             # 还原游戏设置
-            self.settings.initialize_dynamic_settings()
+            self.settings.ini
             
             # 重置游戏的统计数据
             self.stats.reset_stats()

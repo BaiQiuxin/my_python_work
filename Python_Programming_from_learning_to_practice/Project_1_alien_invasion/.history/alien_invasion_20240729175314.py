@@ -72,9 +72,7 @@ class AlienInvasion:
         """在玩家单击 Play 按钮时开始新游戏"""
         button_cllcked = self.play_button.rect.collidepoint(mouse_pos)
         if button_cllcked and not self.game_active:
-            # 还原游戏设置
-            self.settings.initialize_dynamic_settings()
-            
+            # 还原
             # 重置游戏的统计数据
             self.stats.reset_stats()
             self.game_active = True
