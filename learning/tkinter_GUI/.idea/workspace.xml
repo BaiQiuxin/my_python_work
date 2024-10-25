@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f84fcecf-b1f4-4200-9388-08cf598b637b" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch2/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch2/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/add_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/blank_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/choose_the_size_and_charater_style_of_the_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/public_ways_of_widgets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/set_window_size_and_position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/set_window_style.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/show_successfully_charged.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/grid()/rowspan_and_columnspan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/grid()/show_mul_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/pack()/anchor_trial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/pack()/animal_fighting_rules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/pack()/choose_the_order_of_the_widgets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/pack()/fill_trial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/pack()/set_character_lining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/pack()/set_widget_fill_extra_space.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/pack()/set_widget_fill_window_vertically.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/pack()/simulate_confirming_to_exit.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BaiQiuxin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BaiQiuxin/python.git",
+    "accountId": "7efb5de8-548e-4f22-a8dc-55a9d63df542"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2nQiV0KhC4DDGK4Kf4NHGLDVcey" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/VSCode/python/learning/advanced_python"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f84fcecf-b1f4-4200-9388-08cf598b637b" name="更改" comment="" />
+      <created>1728911719558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728911719558</updated>
+    </task>
+    <servers />
+  </component>
+</project>
