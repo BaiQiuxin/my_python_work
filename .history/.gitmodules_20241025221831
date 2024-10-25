@@ -2,6 +2,6 @@
 	path = Automatic_Working_with_Python
 	url = git@github.com:BaiQiuxin/my_python_work.git
 
-[submodule "Python+Excel_Word_Powerpoint"]
-	path = Python+Excel_Word_Powerpoint
+[submodule "Python+Excel_Word_Powerpoint/"]
+	path = Automatic_Working_with_Python
 	url = git@github.com:BaiQiuxin/my_python_work.git
